@@ -12,6 +12,7 @@
 
 ### 依赖下载，打包
 在代码根目录中执行命令：
+
 `cd Guestbook-microservices-k8s`
 `mvn package`
 

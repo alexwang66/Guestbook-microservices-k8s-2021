@@ -117,7 +117,6 @@ Add insecure registry for minikube:
 | Zipkin service  | http://minikube ip:30411 |
 
 
-​	
 ​			
 ​			
 # Helm部署

@@ -6,8 +6,6 @@
 8C 16GB 机器一台，或者 2 台 4C 8G 机器。
 
 
-
-
 ## 1.2 一键编译打包 Java 项目
 
 下载代码：git clone https://github.com/alexwang66/Guestbook-microservices-k8s.git

@@ -73,7 +73,6 @@
 ## 2.2 启动 Minikube
 
 
-
 `curl -Lo minikube http://kubernetes.oss-cn-hangzhou.aliyuncs.com/minikube/releases/v0.30.0/minikube-darwin-amd64 && chmod+x minikube &&  sudo mv minikube/usr/local/bin/`
 
 `minikube start --cpus 4 --memory 8192`
